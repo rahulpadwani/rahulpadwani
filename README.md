@@ -25,3 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=rahulpadwani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rahulpadwani&label=Profile%20views&color=blue&style=flat" alt="rahulpadwani" />
+</p>
